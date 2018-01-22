@@ -1,2 +1,4 @@
+# These are all the file names that git should ignore when adding file to be committed or 
+# checking status diff between branches or remotes
 *.class
 *.swp 
